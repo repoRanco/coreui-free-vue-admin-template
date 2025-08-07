@@ -30,6 +30,7 @@ CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of 
 * [Basic usage](#basic-usage)
 * [What's included](#whats-included)
 * [Documentation](#documentation)
+* [Components](#components)
 * [Versioning](#versioning)
 * [Creators](#creators)
 * [Community](#community)
@@ -137,6 +138,62 @@ coreui-free-vue-admin-template
 ## Documentation
 
 The documentation for the CoreUI Admin Template is hosted at our website [CoreUI for Vue](https://coreui.io/vue/docs/templates/installation.html)
+
+## Components
+
+CoreUI Vue.js Admin Templates are built on top of CoreUI and CoreUI PRO UI components libraries, including all of these components.
+
+- [Vue Accordion](https://coreui.io/vue/docs/components/accordion.html)
+- [Vue Alert](https://coreui.io/vue/docs/components/alert.html)
+- [Vue Autocomplete](https://coreui.io/vue/docs/forms/autocomplete.html) **PRO**
+- [Vue Avatar](https://coreui.io/vue/docs/components/avatar.html)
+- [Vue Badge](https://coreui.io/vue/docs/components/badge.html)
+- [Vue Breadcrumb](https://coreui.io/vue/docs/components/breadcrumb.html)
+- [Vue Button](https://coreui.io/vue/docs/components/button.html)
+- [Vue Button Group](https://coreui.io/vue/docs/components/button-group.html)
+- [Vue Callout](https://coreui.io/vue/docs/components/callout.html)
+- [Vue Card](https://coreui.io/vue/docs/components/card.html)
+- [Vue Carousel](https://coreui.io/vue/docs/components/carousel.html)
+- [Vue Checkbox](https://coreui.io/vue/docs/forms/checkbox.html)
+- [Vue Close Button](https://coreui.io/vue/docs/components/close-button.html)
+- [Vue Collapse](https://coreui.io/vue/docs/components/collapse.html)
+- [Vue Date Picker](https://coreui.io/vue/docs/forms/date-picker.html) **PRO**
+- [Vue Date Range Picker](https://coreui.io/vue/docs/forms/date-range-picker.html) **PRO**
+- [Vue Dropdown](https://coreui.io/vue/docs/components/dropdown.html)
+- [Vue Floating Labels](https://coreui.io/vue/docs/forms/floating-labels.html)
+- [Vue Footer](https://coreui.io/vue/docs/components/footer.html)
+- [Vue Header](https://coreui.io/vue/docs/components/header.html)
+- [Vue Image](https://coreui.io/vue/docs/components/image.html)
+- [Vue Input](https://coreui.io/vue/docs/forms/input.html)
+- [Vue Input Group](https://coreui.io/vue/docs/forms/input-group.html)
+- [Vue List Group](https://coreui.io/vue/docs/components/list-group.html)
+- [Vue Loading Button](https://coreui.io/vue/docs/components/loading-button.html) **PRO**
+- [Vue Modal](https://coreui.io/vue/docs/components/modal.html)
+- [Vue Multi Select](https://coreui.io/vue/docs/forms/multi-select.html) **PRO**
+- [Vue Navs & Tabs](https://coreui.io/vue/docs/components/navs-tabs.html)
+- [Vue Navbar](https://coreui.io/vue/docs/components/navbar.html)
+- [Vue Offcanvas](https://coreui.io/vue/docs/components/offcanvas.html)
+- [Vue Pagination](https://coreui.io/vue/docs/components/pagination.html)
+- [Vue Password Input](https://coreui.io/vue/docs/forms/password-input.html) **PRO**
+- [Vue Placeholder](https://coreui.io/vue/docs/components/placeholder.html)
+- [Vue Popover](https://coreui.io/vue/docs/components/popover.html)
+- [Vue Progress](https://coreui.io/vue/docs/components/progress.html)
+- [Vue Radio](https://coreui.io/vue/docs/forms/radio.html)
+- [Vue Range](https://coreui.io/vue/docs/forms/range.html)
+- [Vue Range Slider](https://coreui.io/vue/docs/forms/range-slider.html) **PRO**
+- [Vue Rating](https://coreui.io/vue/docs/forms/rating.html) **PRO**
+- [Vue Select](https://coreui.io/vue/docs/forms/select.html)
+- [Vue Sidebar](https://coreui.io/vue/docs/components/sidebar.html)
+- [Vue Smart Pagination](https://coreui.io/vue/docs/components/smart-pagination.html) **PRO**
+- [Vue Smart Table](https://coreui.io/vue/docs/components/smart-table.html) **PRO**
+- [Vue Spinner](https://coreui.io/vue/docs/components/spinner.html)
+- [Vue Stepper](https://coreui.io/vue/docs/forms/stepper.html) **PRO**
+- [Vue Switch](https://coreui.io/vue/docs/forms/switch.html)
+- [Vue Table](https://coreui.io/vue/docs/components/table.html)
+- [Vue Textarea](https://coreui.io/vue/docs/forms/textarea.html)
+- [Vue Time Picker](https://coreui.io/vue/docs/forms/time-picker.html) **PRO**
+- [Vue Toast](https://coreui.io/vue/docs/components/toast.html)
+- [Vue Tooltip](https://coreui.io/vue/docs/components/tooltip.html)
 
 ## Versioning
 
