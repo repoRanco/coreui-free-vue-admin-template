@@ -192,28 +192,8 @@ export default [
     items: [
       {
         component: 'CNavItem',
-        name: 'Form Control',
-        to: '/forms/form-control',
-      },
-      {
-        component: 'CNavItem',
-        name: 'Select',
-        to: '/forms/select',
-      },
-      {
-        component: 'CNavItem',
-        name: 'Checks & Radios',
-        to: '/forms/checks-radios',
-      },
-      {
-        component: 'CNavItem',
-        name: 'Range',
-        to: '/forms/range',
-      },
-      {
-        component: 'CNavItem',
-        name: 'Range Slider',
-        href: 'https://coreui.io/vue/docs/forms/range-slider.html',
+        name: 'Autocomplete',
+        href: 'https://coreui.io/vue/docs/forms/autocomplete.html',
         external: true,
         badge: {
           color: 'danger',
@@ -222,13 +202,8 @@ export default [
       },
       {
         component: 'CNavItem',
-        name: 'Input Group',
-        to: '/forms/input-group',
-      },
-      {
-        component: 'CNavItem',
-        name: 'Floating Labels',
-        to: '/forms/floating-labels',
+        name: 'Checks & Radios',
+        to: '/forms/checks-radios',
       },
       {
         component: 'CNavItem',
@@ -251,8 +226,63 @@ export default [
       },
       {
         component: 'CNavItem',
+        name: 'Floating Labels',
+        to: '/forms/floating-labels',
+      },
+      {
+        component: 'CNavItem',
+        name: 'Form Control',
+        to: '/forms/form-control',
+      },
+      {
+        component: 'CNavItem',
+        name: 'Input Group',
+        to: '/forms/input-group',
+      },
+      {
+        component: 'CNavItem',
+        name: 'Password Input',
+        href: 'https://coreui.io/vue/docs/forms/password-input.html',
+        external: true,
+        badge: {
+          color: 'danger',
+          text: 'PRO',
+        },
+      },
+      {
+        component: 'CNavItem',
+        name: 'Range',
+        to: '/forms/range',
+      },
+      {
+        component: 'CNavItem',
+        name: 'Range Slider',
+        href: 'https://coreui.io/vue/docs/forms/range-slider.html',
+        external: true,
+        badge: {
+          color: 'danger',
+          text: 'PRO',
+        },
+      },
+      {
+        component: 'CNavItem',
         name: 'Rating',
         href: 'https://coreui.io/vue/docs/forms/rating.html',
+        external: true,
+        badge: {
+          color: 'danger',
+          text: 'PRO',
+        },
+      },
+      {
+        component: 'CNavItem',
+        name: 'Select',
+        to: '/forms/select',
+      },
+      {
+        component: 'CNavItem',
+        name: 'Stepper',
+        href: 'https://coreui.io/vue/docs/forms/stepper.html',
         external: true,
         badge: {
           color: 'danger',
