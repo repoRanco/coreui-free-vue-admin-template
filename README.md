@@ -234,3 +234,44 @@ CoreUI is an MIT-licensed open source project and is completely free to use. How
 copyright 2025 creativeLabs Łukasz Holeczek.   
 
 Code released under [the MIT license](https://github.com/coreui/coreui-free-react-admin-template/blob/main/LICENSE).
+
+
+
+
+
+
+
+
+en trazabilidad,
+necesito que generes los siguientes inputs 
+
+turno 1 o 2 
+tipo de movimiento
+bodega origen 
+bodega de destino 
+ubicacion origen 
+ubicacion destino 
+Guia sii
+fecha
+
+lote 
+nombre proovedor 
+clasificacion 
+
+necesito que integres un boton que sea escanear materiales en donde se va a escanear el qr de las tarjas ya sea de bodega o caa, una vez leido se agregan a trazabilidad 
+tambien va a haber otra opcion de poder ingresar manual en donde se abrira un panel 
+
+unos inputs de materiales de la base de datos materials excel 
+
+en donde podra ingresar 4 materiales
+se selecciona el tipo de material y ademas las caracteristicas
+cantidad * UL
+total unidades 
+cantidad total
+medida
+asi en los 4 materiales
+
+despues de confirmar sale una ventana del resumen trazabilidad que muestra toda la informacion ingresada
+
+y tambien los materiales ingresados, en donde te puede dar la opcion de borrar 
+y un boton de guardar

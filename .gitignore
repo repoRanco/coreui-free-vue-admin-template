@@ -6,6 +6,7 @@ tests/e2e/reports/
 # local env files
 .env.local
 .env.*.local
+.env
 
 # dependencies
 /node_modules
@@ -43,3 +44,5 @@ Thumbs.db
 *.vi
 *.zip
 *~
+.vite
+*.local

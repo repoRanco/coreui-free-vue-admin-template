@@ -9,7 +9,7 @@ import AppSidebar from '@/components/AppSidebar.vue'
   <div>
     <AppSidebar />
     <div class="wrapper d-flex flex-column min-vh-100">
-      <AppHeader />
+      <!-- <AppHeader /> -->
       <div class="body flex-grow-1">
         <CContainer class="px-4" lg>
           <router-view />

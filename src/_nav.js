@@ -10,6 +10,26 @@ export default [
     },
   },
   {
+    component: 'CNavItem',
+    name: 'Trazabilidad',
+    to: '/trazabilidad'
+  },
+  {
+    component: 'CNavItem',
+    name: 'Recepción Lotes',
+    to: '/recepcion-lotes'
+  },
+  {
+    component: 'CNavItem',
+    name: 'Tarjas Bodega',
+    to: '/tarjas-bodega'
+  },
+  {
+    component: 'CNavItem',
+    name: 'Tarjas CAA',
+    to: '/tarjas-caa'
+  },
+  {
     component: 'CNavTitle',
     name: 'Theme',
   },

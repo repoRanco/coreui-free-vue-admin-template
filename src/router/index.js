@@ -3,6 +3,12 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 
 import DefaultLayout from '@/layouts/DefaultLayout'
 
+// Add new imports
+import Trazabilidad from '@/views/Trazabilidad.vue'
+import RecepcionLotes from '@/views/RecepcionLotes.vue'
+import TarjasBodega from '@/views/TarjasBodega.vue'
+import TarjasCAA from '@/views/TarjasCAA.vue'
+
 const routes = [
   {
     path: '/',
@@ -270,6 +276,27 @@ const routes = [
         path: '/widgets',
         name: 'Widgets',
         component: () => import('@/views/widgets/Widgets.vue'),
+      },
+      // Add new routes before the last closing bracket of children array
+      {
+        path: '/trazabilidad',
+        name: 'Trazabilidad',
+        component: Trazabilidad
+      },
+      {
+        path: '/recepcion-lotes',
+        name: 'RecepcionLotes',
+        component: RecepcionLotes
+      },
+      {
+        path: '/tarjas-bodega',
+        name: 'TarjasBodega',
+        component: TarjasBodega
+      },
+      {
+        path: '/tarjas-caa',
+        name: 'TarjasCAA',
+        component: TarjasCAA
       },
     ],
   },
